@@ -1,4 +1,4 @@
-# Python-With-Python-Game-Code-Files
+# Pythons-Corona-Code-Files
 
 # Pythons-Corona
 <i><h3> This repository contains Source Code of Python's Corona game</h3></i>
